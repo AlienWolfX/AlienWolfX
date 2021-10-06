@@ -1,4 +1,2 @@
-<html>
-  <h1> WELCOME </h1>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlienWolfX)](https://github.com/anuraghazra/github-readme-stats)
-  </html>
+  
