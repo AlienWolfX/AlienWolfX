@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Nothing+is+interesting+here+%3AD)](https://git.io/typing-svg)
 
 <h1 align="center">Hola! 👋, I'm Allen Gabrielle Cruiz</h1>
 <h3 align="center">An amateur pen-tester and programmer that is still studying Information Technology</h3>
