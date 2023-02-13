@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Nothing+is+interesting+here+%3AD)](https://git.io/typing-svg)
 
 <h1 align="center">Hola! 👋, I'm Allen Gabrielle Cruiz</h1>
-<h3 align="center">About Me: I'm currently studying Information Technology at Caraga State University(CSU)</h3>
+<h3 align="center">About Me: :D</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alienwolfx&label=Profile%20views&color=0e75b6&style=flat" alt="alienwolfx" /> </p>
 
