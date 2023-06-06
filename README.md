@@ -9,11 +9,11 @@
 <hr>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [B315s-938 Analysis](https://github.com/AlienWolfX/B315s-938-Analysis)
+- 🔭 I’m currently working on [HarvesrX](https://github.com/AlienWolfX/HarvestX)
 
 - 🌱 I’m currently learning more on **Programming, Networking, and Reverse Engineering**
 
-- 📫 How to reach me **allengabrielle.cruiz@carsu.edu.ph**
+- 📫 Email me at **allengabrielle.cruiz@carsu.edu.ph**
 
 - ⚡ Fun fact **I started Hardware Hacking when I was 15 years old**
 
