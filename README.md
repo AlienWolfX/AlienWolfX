@@ -15,7 +15,7 @@
 
 - 📫 Email me at **allengabrielle.cruiz@carsu.edu.ph**
 
-- ⚡ Fun fact **I started Hardware Hacking when I was 15 years old**
+- ⚡ Fun fact **Dogs are dogs when they are born as dogs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
