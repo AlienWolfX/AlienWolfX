@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on 4G LTE MODEM DONGLE OpenStick Project
+🔭 I’m currently working on <a href="https://github.com/AlienWolfX/UZ801-USB_MODEM">UZ801-USB_MODEM</a>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/cruizallen) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cruizallen) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15500028) 
