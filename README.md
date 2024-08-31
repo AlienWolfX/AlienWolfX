@@ -71,5 +71,9 @@
   <img src="https://visitcount.itsvg.in/api?id=AlienWolfX&label=Visits&color=6&icon=0&pretty=true" />
 </a>
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
