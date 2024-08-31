@@ -4,27 +4,72 @@
   <img src = "https://github.com/shinjitsue/shinjitsue/assets/71762653/b917dd38-ef9b-45e2-92ed-7ec42c9ea6fe" width=200 />
 </div>
 
-# 💫 About Me:
-🔭 I’m currently working on **RookEye.ph**
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/cruizallen) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cruizallen) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15500028) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AlienWolfX&theme=radical&show_icons=true&include_all_commits=true&hide_border=true")
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=AlienWolfX&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlienWolfX&theme=radical&langs_count=8&layout=compact&hide_border=true")
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AlienWolfX&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AlienWolfX&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=AlienWolfX&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=100&color=276DF7&multiline=true&width=435&lines=Allen+Cruiz;Student+%7C+Security+Researcher" alt="Typing SVG" />
+</a>
+
+<br />
+<br />
+
+<!-- Socials -->
+
+<a href="https://www.facebook.com/cruizallen">
+  <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook">
+</a>
+
+<a href="https://www.instagram.com/cruizallen">
+  <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram">
+</a>
+
+<a href="mailto:allengabrielle.cruiz@carsu.edu.ph">
+  <img src="https://img.shields.io/badge/Gmail-white?logo=gmail">
+</a>
+
+<a href="https://www.tiktok.com/@cruizallen">
+  <img src="https://img.shields.io/badge/Tiktok-black?logo=tiktok">
+</a>
+
+<a href="https://www.reddit.com/user/AlienWolfX05">
+  <img src="https://img.shields.io/badge/Reddit-white?logo=reddit">
+</a>
+
+<a href="https://www.linkedin.com/in/cruizallen">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">
+</a>
+
+<!-- End Socials -->
+<br />
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=eui8z7q3mzgrl6ogni10r05f6&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=eui8z7q3mzgrl6ogni10r05f6&redirect=true)
+
+<br />
+
+![OSsloth](https://git.io/OSsloth) Currently working on our thesis about **chess and computer vision!** ![OSsloth](https://git.io/OSsloth)
+
+<a>
+  <img src="https://github-stats-alpha.vercel.app/api?username=AlienWolfX&cc=151515&tc=fff&ic=0a6da4&bc=151515"> 
+</a>
+
+<a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlienWolfX&theme=dark&hide_border=true" alt="AlienWolfX's GitHub Stats" />
+</a>
+
+<br />
+
+<a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlienWolfX&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="AlienWolfX's GitHub Stats" />
+</a>
+
+<br />
+<br />
+
+<a>
+  <img src="https://visitcount.itsvg.in/api?id=AlienWolfX&label=Visits&color=6&icon=0&pretty=true" />
+</a>
+
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
