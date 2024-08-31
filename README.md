@@ -1,4 +1,4 @@
-<!-- ![F](https://github.com/shinjitsue/shinjitsue/assets/71762653/40046547-4165-4375-910b-5c8f60b85a5c) -->
+<!-- AlienWolfX -->
 
 <div align="center">
   <img src = "https://github.com/shinjitsue/shinjitsue/assets/71762653/b917dd38-ef9b-45e2-92ed-7ec42c9ea6fe" width=200 />
@@ -59,21 +59,15 @@
 </a>
 
 <br />
-
-<a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlienWolfX&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="AlienWolfX's GitHub Stats" />
-</a>
-
-<br />
+<!-- <br />
 <br />
 
 <a>
   <img src="https://visitcount.itsvg.in/api?id=AlienWolfX&label=Visits&color=6&icon=0&pretty=true" />
-</a>
+</a> -->
 
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
 
 </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
