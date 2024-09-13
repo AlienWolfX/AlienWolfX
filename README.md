@@ -98,16 +98,17 @@ Sunday                   87 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   3 mins              ████████████████████████░   96.39 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+thesis-chess             3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -123,7 +124,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2024 16:16:33 UTC
+ Last Updated on 13/09/2024 16:16:08 UTC
 <!--END_SECTION:waka-->
 
 </div>
