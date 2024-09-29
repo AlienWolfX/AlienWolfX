@@ -55,7 +55,7 @@
 
 </div>
 
-<img align="right" width="38%" src="https://i.imgur.com/Vv2BLiW.png"/>
+<img align="right" width="34%" src="https://i.imgur.com/Vv2BLiW.png"/>
 
 <a align="left">
   <img src="https://github-stats-alpha.vercel.app/api?username=AlienWolfX&cc=151515&tc=fff&ic=0a6da4&bc=151515"> 
