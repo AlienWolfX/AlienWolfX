@@ -6,8 +6,6 @@
 
 ---
 
-<div align="center">
-
 <div align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=100&color=276DF7&multiline=true&width=435&lines=Allen+Cruiz;Student+%7C+Security+Researcher" alt="Typing SVG" />
@@ -42,9 +40,6 @@
 </a>
 
 <!-- End Socials -->
-
-<br />
-
 </div>
 
 ### Now Playing 🎧
@@ -84,5 +79,3 @@
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
-
-</div>
