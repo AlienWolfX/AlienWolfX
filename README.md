@@ -8,20 +8,21 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
-    <h1>Hello there 👋</h1>
+    <h2>Hello there 👋</h2>
     <p>I'm <b>Allen Gabrielle</b> an aspiring Security Researcher</p>
     <p>and a Fullstack Web Developer based in the</p>
     <p>Philippines 🇵🇭</p>
   </div>
-  <div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <!-- ME -->
     <img style="width: 200px; height: 200px" src="https://i.imgur.com/5SBugzq.png" />
     <!-- Start Socials -->
-    <div style="display: flex; gap: 4px; flex-direction: row-reverse; align-items: center; margin-top: 10px;">
+    <div style="display: flex; flex-direction: column; align-items: center; margin-top: 10px;">
       <a href="https://www.facebook.com/cruizallen">
         <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook">
       </a>
       <a href="https://www.instagram.com/cruizallen">
-        <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram">
+        <img src="https://img.shields.io-badge/Instagram-purple?logo=instagram">
       </a>
       <a href="mailto:allengabrielle.cruiz@carsu.edu.ph">
         <img src="https://img.shields.io/badge/Gmail-white?logo=gmail">
