@@ -42,6 +42,40 @@
 
 <br />
 
+### Tech Stacks
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1;">
+    <b>Technologies</b>
+    <div style="display: flex; gap: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" style="width: 50px; height: 50px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="width: 50px; height: 50px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" style="width: 50px; height: 50px;" />
+    </div>
+    <div style="display: flex; gap: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" style="width: 50px; height: 50px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" style="width: 50px; height: 50px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" style="width: 50px; height: 50px;" />
+    </div>
+  </div>
+
+  <div style="flex: 1;">
+    <b>Languages</b>
+    <div style="display: flex; gap: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width: 50px; height: 50px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="width: 50px; height: 50px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" style="width: 50px; height: 50px;" />
+    </div>
+    <div style="display: flex; gap: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" style="width: 50px; height: 50px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="width: 50px; height: 50px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width: 50px; height: 50px;" />
+    </div>
+  </div>
+</div>
+
+<br />
+
 ### Now Playing 🎧
 
 <div align="left">
