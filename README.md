@@ -50,7 +50,6 @@
 </div>
 
 <div align="center">
-<br />
 
 ![OSsloth](https://git.io/OSsloth) Currently working on our thesis about **chess and computer vision!** ![OSsloth](https://git.io/OSsloth)
 
@@ -58,20 +57,19 @@
 
 <img align="right" width="38%" src="https://i.imgur.com/Vv2BLiW.png"/>
 
-<a>
-  <img align="left" src="https://github-stats-alpha.vercel.app/api?username=AlienWolfX&cc=151515&tc=fff&ic=0a6da4&bc=151515"> 
+<a align="left">
+  <img src="https://github-stats-alpha.vercel.app/api?username=AlienWolfX&cc=151515&tc=fff&ic=0a6da4&bc=151515"> 
 </a>
 
-<a>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AlienWolfX&theme=dark&hide_border=true" alt="AlienWolfX's GitHub Stats" />
+<a align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlienWolfX&theme=dark&hide_border=true" alt="AlienWolfX's GitHub Stats" />
 </a>
-
 
 <div align="center">
 
 <!-- <a>
   <img src="https://visitcount.itsvg.in/api?id=AlienWolfX&label=Visits&color=6&icon=0&pretty=true" />
-</a> --> 
+</a> -->
 
 <br />
 <br />
@@ -79,3 +77,5 @@
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
+
+</div>
