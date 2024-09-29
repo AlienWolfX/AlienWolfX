@@ -57,17 +57,12 @@
 
 </div>
 
-<div align="right">
-  <p>This is meow</p>
-<img width="34%" src="https://i.imgur.com/Vv2BLiW.png"/> 
-</div>
 
-<a align="left">
-  <img src="https://github-stats-alpha.vercel.app/api?username=AlienWolfX&cc=151515&tc=fff&ic=0a6da4&bc=151515">
-</a>
+<img width="38%" align="right" src="https://i.imgur.com/Vv2BLiW.png"/> 
 
-<a align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlienWolfX&theme=dark&hide_border=true" alt="AlienWolfX's GitHub Stats" />
+<a>
+<img width="50%" src="https://github-stats-alpha.vercel.app/api?username=AlienWolfX&cc=151515&tc=fff&ic=0a6da4&bc=151515" />
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlienWolfX&theme=dark&hide_border=true" alt="AlienWolfX's GitHub Stats" />
 </a>
 
 <div align="center">
