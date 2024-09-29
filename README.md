@@ -9,14 +9,14 @@
 <div align="center">
   <div>
     <!-- ME -->
-    <img class="profile-image" src="https://i.imgur.com/5SBugzq.png" alt="Profile Image" />
+    <img style="width: 200px; height: 200px" src="https://i.imgur.com/5SBugzq.png" alt="Profile Image" />
     <div>
       <p>I'm <b>Allen Gabrielle</b>, an aspiring Security Researcher</p>
       <p>and a Fullstack Web Developer based in the</p>
       <p>Philippines 🇵🇭</p>
     </div>
     <!-- Start Socials -->
-    <div class="social-links">
+    <div style="gap: 4px; align-items: center; margin-top: 10px">
       <a href="https://www.facebook.com/cruizallen">
         <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook" alt="Facebook">
       </a>
@@ -40,18 +40,7 @@
   </div>
 </div>
 
-<style>
-  .profile-image {
-    width: 200px;
-    height: 200px;
-  }
-  .social-links {
-    gap: 4px;
-    align-items: center;
-    margin-top: 10px;
-  }
-</style>
-
+<br />
 
 ### Now Playing 🎧
 
