@@ -6,40 +6,51 @@
 
 ---
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div>
-    <h2>Hello there 👋</h2>
-    <p>I'm <b>Allen Gabrielle</b> an aspiring Security Researcher</p>
-    <p>and a Fullstack Web Developer based in the</p>
-    <p>Philippines 🇵🇭</p>
-  </div>
+<div align="center">
   <div>
     <!-- ME -->
-    <img style="width: 200px; height: 200px" src="https://i.imgur.com/5SBugzq.png" />
+    <img class="profile-image" src="https://i.imgur.com/5SBugzq.png" alt="Profile Image" />
+    <div>
+      <p>I'm <b>Allen Gabrielle</b>, an aspiring Security Researcher</p>
+      <p>and a Fullstack Web Developer based in the</p>
+      <p>Philippines 🇵🇭</p>
+    </div>
     <!-- Start Socials -->
-    <div style="display: flex; gap: 4px; flex-direction: row-reverse; align-items: center; margin-top: 10px;">
+    <div class="social-links">
       <a href="https://www.facebook.com/cruizallen">
-        <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook">
+        <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook" alt="Facebook">
       </a>
       <a href="https://www.instagram.com/cruizallen">
-        <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram">
+        <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram" alt="Instagram">
       </a>
       <a href="mailto:allengabrielle.cruiz@carsu.edu.ph">
-        <img src="https://img.shields.io/badge/Gmail-white?logo=gmail">
+        <img src="https://img.shields.io/badge/Gmail-white?logo=gmail" alt="Gmail">
       </a>
       <a href="https://www.tiktok.com/@cruizallen">
-        <img src="https://img.shields.io/badge/Tiktok-black?logo=tiktok">
+        <img src="https://img.shields.io/badge/Tiktok-black?logo=tiktok" alt="Tiktok">
       </a>
       <a href="https://www.reddit.com/user/AlienWolfX05">
-        <img src="https://img.shields.io/badge/Reddit-white?logo=reddit">
+        <img src="https://img.shields.io/badge/Reddit-white?logo=reddit" alt="Reddit">
       </a>
       <a href="https://www.linkedin.com/in/cruizallen">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn">
       </a>
     </div>
     <!-- End Socials -->
   </div>
 </div>
+
+<style>
+  .profile-image {
+    width: 200px;
+    height: 200px;
+  }
+  .social-links {
+    gap: 4px;
+    align-items: center;
+    margin-top: 10px;
+  }
+</style>
 
 
 ### Now Playing 🎧
