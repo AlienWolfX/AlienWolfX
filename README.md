@@ -2,8 +2,9 @@
 <div align="center">
   <div>
     <!-- ME -->
-    <img style="width: 200px; height: 200px" src="https://i.imgur.com/5SBugzq.png" alt="Profile Image" />
+    <img src="assets/banner.png" alt="Banner" />
     <div>
+      <br />
       <p>I'm <b>Allen Gabrielle</b>, an aspiring Security Researcher</p>
       <p>and a Fullstack Web Developer based in the</p>
       <p>Philippines 🇵🇭</p>
@@ -50,22 +51,25 @@
 
 </div>
 
-
 <img width="38%" align="right" src="https://i.ibb.co/NsqfLfK/AC-Logo-1.png"/> 
 
 <a>
 <img width="50%" src="https://github-stats-alpha.vercel.app/api?username=AlienWolfX&cc=151515&tc=fff&ic=0a6da4&bc=151515" />
+
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlienWolfX&theme=dark&hide_border=true" alt="AlienWolfX's GitHub Stats" />
 </a>
 
+<br />
+
+<img align="left" width="38%" src="assets/confused.png" />
+
+<a>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=alienwolfx&repo=thesis-chess&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=alienwolfx&repo=UZ801-USB_MODEM&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+</a>
+
 <div align="center">
-
-<!-- <a>
-  <img src="https://visitcount.itsvg.in/api?id=AlienWolfX&label=Visits&color=6&icon=0&pretty=true" />
-</a> -->
-
-<br />
-<br />
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
