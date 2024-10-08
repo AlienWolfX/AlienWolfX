@@ -63,11 +63,15 @@
 
 <img align="left" width="38%" src="assets/confused.png" />
 
-<a>
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=alienwolfx&repo=thesis-chess&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+<div align="right" >
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=alienwolfx&repo=UZ801-USB_MODEM&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-</a>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=alienwolfx&repo=thesis-chess&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=alienwolfx&repo=UZ801-USB_MODEM&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+
+</div>
+
+<br />
 
 <div align="center">
 
