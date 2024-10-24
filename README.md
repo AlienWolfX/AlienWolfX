@@ -65,9 +65,9 @@
 
 <div align="right" >
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=alienwolfx&repo=thesis-chess&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+<a href="https://github.com/AlienWolfX/thesis-chess"><img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=alienwolfx&repo=thesis-chess&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /></a>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=alienwolfx&repo=UZ801-USB_MODEM&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+<a href="https://github.com/AlienWolfX/UZ801-USB_MODEM"><img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=alienwolfx&repo=UZ801-USB_MODEM&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /></a>
 
 </div>
 
