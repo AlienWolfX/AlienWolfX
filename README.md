@@ -6,7 +6,7 @@
     <div>
       <br />
       <p>I'm <b>Allen Gabrielle</b>, an aspiring Security Researcher</p>
-      <p>and a Fullstack Web Developer based in the</p>
+      <p>and a Fullstack Web Developer and Embeded System Developer based in the</p>
       <p>Philippines 🇵🇭</p>
     </div>
     <!-- Start Socials -->
