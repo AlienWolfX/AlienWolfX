@@ -63,9 +63,9 @@
 
 <div align="right" >
 
-<a href="https://github.com/AlienWolfX/thesis-chess"><img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=alienwolfx&repo=thesis-chess&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /></a>
+<a href="https://github.com/AlienWolfX/thesis-chess"><img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=alienwolfx&repo=thesis-chess&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&hide_border=true" /></a>
 
-<a href="https://github.com/AlienWolfX/UZ801-USB_MODEM"><img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=alienwolfx&repo=UZ801-USB_MODEM&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /></a>
+<a href="https://github.com/AlienWolfX/UZ801-USB_MODEM"><img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=alienwolfx&repo=UZ801-USB_MODEM&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&hide_border=true" /></a>
 
 </div>
 
@@ -73,9 +73,9 @@
 
 <img width="38%" align="right" src="assets/meow.png"/> 
 
-<a href="https://github.com/AlienWolfX/HandsomeMod-UZ801"><img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=alienwolfx&repo=HandsomeMod-UZ801&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /></a>
+<a href="https://github.com/AlienWolfX/HandsomeMod-UZ801"><img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=alienwolfx&repo=HandsomeMod-UZ801&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&hide_border=true" /></a>
 
-<a href="https://github.com/AlienWolfX/HMUF02-V05-USB_MODEM"><img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=alienwolfx&repo=HMUF02-V05-USB_MODEM&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /></a>
+<a href="https://github.com/AlienWolfX/HMUF02-V05-USB_MODEM"><img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=alienwolfx&repo=HMUF02-V05-USB_MODEM&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&hide_border=true" /></a>
 
 <div align="center">
 
