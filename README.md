@@ -2,11 +2,11 @@
 <div align="center">
   <div>
     <!-- ME -->
-    <img src="assets/banner.png" alt="Banner" />
+<!--     <img src="assets/banner.png" alt="Banner" /> -->
     <div>
       <br />
       <p>I'm <b>Allen Gabrielle</b>, an aspiring Security Researcher</p>
-      <p>and a Fullstack Web Developer and Embeded System Developer based in the</p>
+      <p>and a Laravel Fullstack Web Developer and Embeded System Developer based in the</p>
       <p>Philippines 🇵🇭</p>
     </div>
     <!-- Start Socials -->
