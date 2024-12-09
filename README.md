@@ -1,36 +1,38 @@
 <!-- AlienWolfX -->
 <div align="center">
+  <!-- Profile Banner -->
+<!--   <img src="assets/banner.png" alt="Banner" /> -->
+  
+  <!-- Introduction -->
   <div>
-    <!-- ME -->
-<!--     <img src="assets/banner.png" alt="Banner" /> -->
-    <div>
-      <br />
-      <p>I'm <b>Allen Gabrielle</b>, an aspiring Security Researcher</p>
-      <p>and a Laravel Fullstack Web Developer and Embeded System Developer based in the</p>
-      <p>Philippines 🇵🇭</p>
-    </div>
-    <!-- Start Socials -->
-    <div style="gap: 4px; align-items: center; margin-top: 10px">
-      <a href="https://www.facebook.com/cruizallen">
-        <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook" alt="Facebook">
-      </a>
-      <a href="https://www.instagram.com/cruizallen">
-        <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram" alt="Instagram">
-      </a>
-      <a href="mailto:allengabrielle.cruiz@carsu.edu.ph">
-        <img src="https://img.shields.io/badge/Gmail-white?logo=gmail" alt="Gmail">
-      </a>
-      <a href="https://www.tiktok.com/@cruizallen">
-        <img src="https://img.shields.io/badge/Tiktok-black?logo=tiktok" alt="Tiktok">
-      </a>
-      <a href="https://www.reddit.com/user/AlienWolfX05">
-        <img src="https://img.shields.io/badge/Reddit-white?logo=reddit" alt="Reddit">
-      </a>
-      <a href="https://www.linkedin.com/in/cruizallen">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn">
-      </a>
-    </div>
-    <!-- End Socials -->
+    <h3>Hi there! 👋</h3>
+    <p>
+      I'm <strong>Allen Gabrielle</strong>, an aspiring Security Researcher<br/>
+      and a Laravel Fullstack Web Developer and Embedded System Developer<br/>
+      based in the Philippines 🇵🇭
+    </p>
+  </div>
+
+  <!-- Social Media Badges -->
+  <div>
+    <a href="https://facebook.com/cruizallen">
+      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
+    </a>&nbsp;
+    <a href="https://instagram.com/cruizallen">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
+    </a>&nbsp;
+    <a href="https://www.linkedin.com/in/cruizallen">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>&nbsp;
+    <a href="https://www.reddit.com/user/AlienWolfX05">
+      <img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white" alt="Reddit"/>
+    </a>&nbsp;
+    <a href="https://open.spotify.com/user/eui8z7q3mzgrl6ogni10r05f6">
+      <img src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white" alt="Spotify"/>
+    </a>&nbsp;
+    <a href="https://www.tiktok.com/@cruizallen">
+      <img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white" alt="TikTok"/>
+    </a>
   </div>
 </div>
 
