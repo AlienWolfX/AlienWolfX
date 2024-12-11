@@ -43,7 +43,7 @@
 
 <div align="left">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=eui8z7q3mzgrl6ogni10r05f6&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=eui8z7q3mzgrl6ogni10r05f6&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=eui8z7q3mzgrl6ogni10r05f6&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=fb8c00&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=eui8z7q3mzgrl6ogni10r05f6&redirect=true)
 
 </div>
 
