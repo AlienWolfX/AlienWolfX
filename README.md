@@ -7,8 +7,8 @@
   <div>
     <h3>Hi there! 👋</h3>
     <p>
-      I'm <strong>Allen Gabrielle</strong>, an aspiring Security Researcher<br/>
-      and a Laravel Fullstack Web Developer and Embedded System Developer<br/>
+      I'm <strong>Allen Gabrielle</strong>, an aspiring Security Researcher and<br/>
+      Web Developer<br/>
       based in the Philippines 🇵🇭
     </p>
   </div>
