@@ -57,7 +57,7 @@
 
 <img width="50%" src="https://gh-readme-profile.vercel.app/api?username=AlienWolfX&theme=dark&hide_border=true&icon_color=FB8C00&hide_stroke=true&title=Stats&text_color=FEFEFE&username_color=FB8C00&photo_quality=90%" alt="AlienWolfX Stats" />
 
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlienWolfX&theme=dark&hide_border=true" alt="AlienWolfX's GitHub Stats" />
+<img width="50%" src="https://nirzak-streak-stats.vercel.app?user=AlienWolfX&theme=dark&hide_border=true" alt="AlienWolfX's GitHub Stats" />
 
 <br />
 
