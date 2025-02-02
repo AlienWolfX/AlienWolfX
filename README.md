@@ -61,6 +61,9 @@
 
 <br />
 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlienWolfX&hide_border=true&custom_title=Stats&line=FB8C00&color=ffffff&theme=react-dark)](https://github.com/AlienWolfX)
+
 <div align="center">
 
 <!--START_SECTION:waka-->
