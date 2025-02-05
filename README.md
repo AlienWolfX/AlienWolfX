@@ -53,7 +53,7 @@
 
 </div>
 
-<img width="45%" align="right" src="https://i.imgur.com/L9apCTO.png"/> 
+<img width="40%" align="right" src="https://i.imgur.com/L9apCTO.png"/> 
 
 <img width="50%" src="https://gh-readme-profile.vercel.app/api?username=AlienWolfX&theme=dark&hide_border=true&icon_color=FB8C00&hide_stroke=true&title=Stats&text_color=FEFEFE&username_color=FB8C00&photo_quality=90%" alt="AlienWolfX Stats" />
 
