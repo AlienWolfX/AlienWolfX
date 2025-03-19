@@ -39,7 +39,7 @@
 <br />
 <br />
 
-### Now Playing 🎧
+### Currently listening to 🎧
 
 <div align="left">
 
