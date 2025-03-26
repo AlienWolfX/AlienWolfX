@@ -68,6 +68,14 @@
 
 <!--START_SECTION:waka-->
 
+```txt
+JavaScript       17 hrs 2 mins   ███████████▓░░░░░░░░░░░░░   46.76 %
+PHP              5 hrs 7 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 %
+Blade Template   4 hrs 56 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 %
+Python           4 hrs 41 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 %
+JSON             1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+```
+
 <!--END_SECTION:waka-->
 
 </div>
