@@ -69,27 +69,8 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Manila
-
-💬 Programming Languages: 
-Java                     0 secs              ████████████████░░░░░░░░░   66.00 % 
-XML                      0 secs              ████████░░░░░░░░░░░░░░░░░   34.00 % 
-
-🔥 Editors: 
-Android Studio           0 secs              █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Arf                      0 secs              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 20/05/2025 16:26:50 UTC
+ Last Updated on 21/05/2025 16:27:07 UTC
 <!--END_SECTION:waka-->
 
 </div>
