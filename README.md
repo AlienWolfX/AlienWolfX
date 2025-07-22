@@ -15,10 +15,10 @@
 
   <!-- Social Media Badges -->
   <div>
-    <a href="https://facebook.com/cruizallen">
+    <a href="https://facebook.com/nullbyallen">
       <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
     </a>&nbsp;
-    <a href="https://instagram.com/cruizallen">
+    <a href="https://instagram.com/nullbyallen">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
     </a>&nbsp;
     <a href="https://www.linkedin.com/in/cruizallen">
@@ -30,7 +30,7 @@
     <a href="https://open.spotify.com/user/eui8z7q3mzgrl6ogni10r05f6">
       <img src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white" alt="Spotify"/>
     </a>&nbsp;
-    <a href="https://www.tiktok.com/@cruizallen">
+    <a href="https://www.tiktok.com/@yourallen_05">
       <img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white" alt="TikTok"/>
     </a>
   </div>
@@ -53,7 +53,7 @@
 
 </div>
 
-<img width="40%" align="right" src="https://i.imgur.com/L9apCTO.png"/> 
+<img width="40%" align="right" src="https://i.imgur.com/L9apCTO.png"/>
 
 <img width="50%" src="https://gh-readme-profile.vercel.app/api?username=AlienWolfX&theme=dark&hide_border=true&icon_color=FB8C00&hide_stroke=true&title=Stats&text_color=FEFEFE&username_color=FB8C00&photo_quality=90%" alt="AlienWolfX Stats" />
 
@@ -61,41 +61,41 @@
 
 <br />
 
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlienWolfX&hide_border=true&custom_title=Activity%20Graph&line=FB8C00&color=ffffff&theme=react-dark)](https://github.com/AlienWolfX)
 
 <div align="center">
 
 <!--START_SECTION:waka-->
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Manila
 
-💬 Programming Languages: 
-Dart                     1 hr 23 mins        █████████░░░░░░░░░░░░░░░░   34.47 % 
-Python                   53 mins             ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-Text                     41 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-HTML                     36 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Bash                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+💬 Programming Languages:
+Dart                     1 hr 23 mins        █████████░░░░░░░░░░░░░░░░   34.47 %
+Python                   53 mins             ██████░░░░░░░░░░░░░░░░░░░   22.20 %
+Text                     41 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.01 %
+HTML                     36 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.14 %
+Bash                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
 
-🔥 Editors: 
-VS Code                  4 hrs 3 mins        █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  4 hrs 3 mins        █████████████████████████   100.00 %
 
-🐱‍💻 Projects: 
-HakotX                   1 hr 54 mins        ████████████░░░░░░░░░░░░░   47.16 % 
-hydroalert               1 hr 27 mins        █████████░░░░░░░░░░░░░░░░   35.88 % 
-alienwolfx.github.io     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-countdown                11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+🐱‍💻 Projects:
+HakotX                   1 hr 54 mins        ████████████░░░░░░░░░░░░░   47.16 %
+hydroalert               1 hr 27 mins        █████████░░░░░░░░░░░░░░░░   35.88 %
+alienwolfx.github.io     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
+countdown                11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
 
-💻 Operating System: 
-Windows                  4 hrs 3 mins        █████████████████████████   100.00 % 
+💻 Operating System:
+Windows                  4 hrs 3 mins        █████████████████████████   100.00 %
 ```
 
+Last Updated on 21/07/2025 16:28:40 UTC
 
- Last Updated on 21/07/2025 16:28:40 UTC
 <!--END_SECTION:waka-->
 
 </div>
