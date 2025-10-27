@@ -49,7 +49,7 @@
 
 <div align="center">
 
-![OSsloth](https://git.io/OSsloth) Currently working on **Reverse engineering UZ801** ![OSsloth](https://git.io/OSsloth)
+![OSsloth](https://git.io/OSsloth) Currently working on **Something awesome!** ![OSsloth](https://git.io/OSsloth)
 
 </div>
 
