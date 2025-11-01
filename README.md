@@ -68,27 +68,8 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Manila
-
-💬 Programming Languages: 
-Markdown                 1 hr 40 mins        █████████████████████████   99.40 % 
-Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-
-🔥 Editors: 
-VS Code                  1 hr 41 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-UZ801-USB_MODEM          1 hr 41 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  1 hr 41 mins        █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 31/10/2025 16:26:44 UTC
+ Last Updated on 01/11/2025 16:21:54 UTC
 <!--END_SECTION:waka-->
 
 </div>
