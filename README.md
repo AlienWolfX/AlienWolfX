@@ -68,8 +68,27 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 16/11/2025 16:23:36 UTC
+```text
+🕑︎ Time Zone: Asia/Manila
+
+💬 Programming Languages: 
+HTML                     27 mins             ████████████████░░░░░░░░░   64.15 % 
+CSS                      15 mins             █████████░░░░░░░░░░░░░░░░   35.85 % 
+
+🔥 Editors: 
+VS Code                  42 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+alienwolfx.github.io     42 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  42 mins             █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 17/11/2025 16:29:36 UTC
 <!--END_SECTION:waka-->
 
 </div>
