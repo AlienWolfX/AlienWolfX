@@ -74,28 +74,28 @@
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Python                   7 hrs 50 mins       ████████████████░░░░░░░░░   65.70 % 
-Markdown                 1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Other                    1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-XML                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-Text                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Python                   7 hrs 59 mins       ███████████████░░░░░░░░░░   61.18 % 
+Text                     2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Markdown                 1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+XML                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 55 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 3 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-B315s-938                4 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   41.55 % 
-Reverse_Engineering      2 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
-F663Nv3a                 1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-CIGNAL                   1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-HakotX                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+B315s-938                6 hrs 52 mins       █████████████░░░░░░░░░░░░   52.65 % 
+Reverse_Engineering      2 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
+F663Nv3a                 1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+ZLT-S12-PRO              48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+HakotX                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 💻 Operating System: 
-Windows                  11 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/02/2026 16:29:02 UTC
+ Last Updated on 01/03/2026 16:30:39 UTC
 <!--END_SECTION:waka-->
 
 </div>
