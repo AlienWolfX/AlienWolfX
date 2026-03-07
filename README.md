@@ -66,7 +66,7 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -74,28 +74,28 @@
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Text                     3 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   38.75 % 
-Python                   2 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
-Markdown                 2 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
-XML                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-C                        18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Python                   5 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   36.37 % 
+Text                     5 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   35.75 % 
+Markdown                 2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+XML                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+C                        18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 38 mins       █████████████████████████   100.00 % 
+VS Code                  14 hrs 10 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-B315s-938                5 hrs 5 mins        █████████████░░░░░░░░░░░░   52.72 % 
-GM620                    1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-ZLT-S12-PRO              1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-WD76X8K_C1               48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-F670L                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+B315s-938                5 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   35.89 % 
+ZAPO-Z100                4 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   32.14 % 
+GM620                    1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+ZLT-S12-PRO              1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+WD76X8K_C1               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 
 💻 Operating System: 
-Windows                  9 hrs 38 mins       █████████████████████████   100.00 % 
+Windows                  14 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/03/2026 16:43:42 UTC
+ Last Updated on 07/03/2026 16:30:24 UTC
 <!--END_SECTION:waka-->
 
 </div>
