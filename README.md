@@ -74,28 +74,25 @@
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Python                   1 hr 47 mins        █████████░░░░░░░░░░░░░░░░   34.06 % 
-TypeScript               1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
-PHP                      1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
-Bash                     34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+PHP                      1 hr 32 mins        ██████████░░░░░░░░░░░░░░░   41.36 % 
+TypeScript               1 hr 11 mins        ████████░░░░░░░░░░░░░░░░░   31.80 % 
+Bash                     34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Other                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 16 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 44 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-smartvet                 3 hrs 1 min         ██████████████░░░░░░░░░░░   57.36 % 
-AIPAWE                   1 hr 49 mins        █████████░░░░░░░░░░░░░░░░   34.74 % 
-ecoswapX                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-hotlines-bettergov       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-F670L                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+smartvet                 3 hrs 25 mins       ███████████████████████░░   91.53 % 
+ecoswapX                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
 
 💻 Operating System: 
-Windows                  5 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/03/2026 17:03:04 UTC
+ Last Updated on 17/03/2026 17:04:54 UTC
 <!--END_SECTION:waka-->
 
 </div>
