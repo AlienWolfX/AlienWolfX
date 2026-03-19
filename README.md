@@ -74,25 +74,26 @@
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-PHP                      1 hr 33 mins        ██████████░░░░░░░░░░░░░░░   41.83 % 
-TypeScript               1 hr 19 mins        █████████░░░░░░░░░░░░░░░░   35.80 % 
-Bash                     41 mins             █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+TypeScript               1 hr 34 mins        █████████████░░░░░░░░░░░░   51.87 % 
+Bash                     53 mins             ███████░░░░░░░░░░░░░░░░░░   29.37 % 
+PHP                      27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+XML                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 42 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-smartvet                 3 hrs 23 mins       ███████████████████████░░   91.49 % 
-ecoswapX                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+smartvet                 2 hrs 38 mins       ██████████████████████░░░   87.29 % 
+ecoswapX                 18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+HakotX                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 💻 Operating System: 
-Windows                  3 hrs 42 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/03/2026 17:02:32 UTC
+ Last Updated on 19/03/2026 16:59:40 UTC
 <!--END_SECTION:waka-->
 
 </div>
