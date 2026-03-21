@@ -1,99 +1,50 @@
 <!-- AlienWolfX -->
 <div align="center">
-  <!-- Profile Banner -->
-<!--   <img src="assets/banner.png" alt="Banner" /> -->
-  
-  <!-- Introduction -->
-  <div>
-    <h3>Hi there! 👋</h3>
-    <p>
-      I'm <strong>Allen Gabrielle</strong>, Firmware Engineer and<br/>
-      Security Researcher<br/>
-      based in the Philippines 🇵🇭
-    </p>
-  </div>
+  <h1>AlienWolfX</h1>
+  <p>Firmware Engineer • Security Researcher • Open Source Enthusiast</p>
+  <p>Based in the Philippines 🇵🇭</p>
 
-  <!-- Social Media Badges -->
-  <div>
-    <a href="https://facebook.com/nullbyallen">
-      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
-    </a>&nbsp;
-    <a href="https://instagram.com/nullbyallen">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
-    </a>&nbsp;
-    <a href="https://www.linkedin.com/in/cruizallen">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>&nbsp;
-    <a href="https://www.reddit.com/user/AlienWolfX05">
-      <img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white" alt="Reddit"/>
-    </a>&nbsp;
-    <a href="https://open.spotify.com/user/eui8z7q3mzgrl6ogni10r05f6">
-      <img src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white" alt="Spotify"/>
-    </a>&nbsp;
-    <a href="https://www.tiktok.com/@yourallen_05">
-      <img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white" alt="TikTok"/>
-    </a>
-  </div>
+  <p>
+    <a href="https://github.com/AlienWolfX" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://www.linkedin.com/in/alienwolfx" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.reddit.com/user/AlienWolfX05" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white" alt="Reddit"/></a>
+    <a href="https://instagram.com/nullbyallen" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://open.spotify.com/user/eui8z7q3mzgrl6ogni10r05f6" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white" alt="Spotify"/></a>
+    <a href="https://www.tiktok.com/@yourallen_05" target="_blank"><img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white" alt="TikTok"/></a>
+  </p>
 </div>
 
-<br />
-<br />
+---
 
-### Currently listening to 🎧
+## 💡 About Me
 
-<div align="left">
+- 👋 Hi, I’m **Allen Gabrielle** (aka `AlienWolfX`) — firmware engineer & security researcher.
+- 🧩 I love embedded systems, firmware tools, and open-source automation.
+- 🛡️ Current focus: hardware security, reverse engineering, secure bootchains, and firmware vulnerability research.
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=eui8z7q3mzgrl6ogni10r05f6&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=fb8c00&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=eui8z7q3mzgrl6ogni10r05f6&redirect=true)
+## 🛠️ Tech Stack (Devicon)
 
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" height="40" alt="Rust" title="Rust" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" title="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" title="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />
+</p>
 
-<div align="center">
+## 📊 GitHub Stats
 
-![OSsloth](https://git.io/OSsloth) Currently working on **Something awesome!** ![OSsloth](https://git.io/OSsloth)
+<p align="center">
+  <img src="https://gh-readme-stats.vercel.app/api?username=AlienWolfX&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
 
-</div>
+## 📫 Contact
 
-<img width="40%" align="right" src="https://i.imgur.com/L9apCTO.png"/>
-
-<img width="50%" src="https://gh-readme-profile.vercel.app/api?username=AlienWolfX&theme=dark&hide_border=true&icon_color=FB8C00&hide_stroke=true&title=Stats&text_color=FEFEFE&username_color=FB8C00&photo_quality=90%" alt="AlienWolfX Stats" />
-
-<img width="50%" src="https://nirzak-streak-stats.vercel.app?user=AlienWolfX&theme=dark&hide_border=true" alt="AlienWolfX's GitHub Stats" />
-
-<br />
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlienWolfX&hide_border=true&custom_title=Activity%20Graph&line=FB8C00&color=ffffff&theme=react-dark)](https://github.com/AlienWolfX)
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Manila
-
-💬 Programming Languages: 
-TypeScript               1 hr 34 mins        █████████████░░░░░░░░░░░░   51.87 % 
-Bash                     53 mins             ███████░░░░░░░░░░░░░░░░░░   29.37 % 
-PHP                      27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-XML                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-
-🔥 Editors: 
-VS Code                  3 hrs 1 min         █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-smartvet                 2 hrs 38 mins       ██████████████████████░░░   87.29 % 
-ecoswapX                 18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-HakotX                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-
-💻 Operating System: 
-Windows                  3 hrs 1 min         █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 20/03/2026 16:47:25 UTC
-<!--END_SECTION:waka-->
-
-</div>
+- Email: `allengabrielle.cruiz@carsu.edu.ph`
+- LinkedIn: https://www.linkedin.com/in/alienwolfx
