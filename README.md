@@ -7,8 +7,8 @@
   <div>
     <h3>Hi there! 👋</h3>
     <p>
-      I'm <strong>Allen Gabrielle</strong>, an aspiring Security Researcher and<br/>
-      Web Developer<br/>
+      I'm <strong>Allen Gabrielle</strong>, Firmware Engineer and<br/>
+      Security Researcher<br/>
       based in the Philippines 🇵🇭
     </p>
   </div>
@@ -97,5 +97,3 @@ Windows                  3 hrs 1 min         ███████████�
 <!--END_SECTION:waka-->
 
 </div>
-
-<img src="https://raw.githubusercontent.com/warriorwizard/warriorwizard/2af4e1c3d1a916022110de41ff0d7246d94ffe8e/bottom_header.svg" />
