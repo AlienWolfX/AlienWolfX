@@ -1,6 +1,6 @@
 <!-- AlienWolfX -->
 <div align="center">
-  <h1>AlienWolfX</h1>
+  <h1>Allen Gabrielle Cruiz</h1>
   <p>Firmware Engineer • Security Researcher • Open Source Enthusiast</p>
   <p>Based in the Philippines 🇵🇭</p>
 
