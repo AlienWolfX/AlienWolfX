@@ -1,7 +1,7 @@
 <!-- AlienWolfX -->
 <div align="center">
   <h1>Allen Gabrielle Cruiz</h1>
-  <p>Firmware Engineer • Security Researcher • Open Source Enthusiast</p>
+  <p>Software Engineer • Security Researcher • Open Source Enthusiast</p>
   <p>Based in the Philippines 🇵🇭</p>
 
   <p>
@@ -22,20 +22,14 @@
 - 🧩 I love embedded systems, firmware tools, and open-source automation.
 - 🛡️ Current focus: hardware security, reverse engineering, secure bootchains, and firmware vulnerability research.
 
-## 🛠️ Tech Stack (Devicon)
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" height="40" alt="Rust" title="Rust" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" title="Bash" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" title="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" title="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />
-</p>
+<div align="center">
+
+**TypeScript | Java | Spring Boot | ReactJS | JavaScript | Python | Rust | Bash | C | PHP | HTML5 | CSS3 | Git**
+
+</div>
+
 
 ## 📊 GitHub Stats
 
