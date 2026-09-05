@@ -9,8 +9,6 @@
     <a href="https://www.linkedin.com/in/alienwolfx" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://www.reddit.com/user/AlienWolfX05" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white" alt="Reddit"/></a>
     <a href="https://instagram.com/nullbyallen" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram"/></a>
-    <a href="https://open.spotify.com/user/eui8z7q3mzgrl6ogni10r05f6" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white" alt="Spotify"/></a>
-    <a href="https://www.tiktok.com/@yourallen_05" target="_blank"><img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white" alt="TikTok"/></a>
   </p>
 </div>
 
