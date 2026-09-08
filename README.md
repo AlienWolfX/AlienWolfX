@@ -16,7 +16,7 @@
 
 ## 💡 About Me
 
-- 👋 Hi, I’m **Allen Gabrielle** (aka `AlienWolfX`) — firmware engineer & security researcher.
+- 👋 Hi, I’m **Allen Gabrielle** (aka `Gab`) — firmware engineer & security researcher.
 - 🧩 I love embedded systems, firmware tools, and open-source automation.
 - 🛡️ Current focus: hardware security, reverse engineering, secure bootchains, and firmware vulnerability research.
 
